@@ -1,5 +1,5 @@
 {
- "commit": "3409372b5f9cf1c465e50e0ad7cea22e3f622762",
+ "commit": "e2801c7a07ad0a17b5c531a59ab0740abe744857",
  "detail": {
   "budget": {
    "budget_kind": "cpu",
@@ -72,42 +72,42 @@
    {
     "display": "GPT-6 Astra",
     "draws": 0,
-    "losses": 2,
+    "losses": 1,
     "name": "Astra",
     "rating": 506.9454874458487,
-    "wins": 18
+    "wins": 19
    },
    {
     "display": "GPT-6.1 Sol Ultrafast（Codex CLI）",
     "draws": 0,
-    "losses": 4,
+    "losses": 3,
     "name": "SolUF",
     "rating": 466.92800596466685,
-    "wins": 16
+    "wins": 17
    },
    {
     "display": "Gemini 4 Argon Contributor（OpenCode Go）",
     "draws": 0,
-    "losses": 1,
+    "losses": 0,
     "name": "Gemini",
     "rating": 355.4298340699916,
-    "wins": 19
+    "wins": 20
    },
    {
     "display": "GPT-6.1 Sol",
     "draws": 0,
-    "losses": 1,
+    "losses": 0,
     "name": "Sol",
     "rating": 318.7995999432353,
-    "wins": 19
+    "wins": 20
    },
    {
     "display": "Claude Opus 5.5",
     "draws": 0,
-    "losses": 0,
+    "losses": 1,
     "name": "Opus",
     "rating": 258.78757366446996,
-    "wins": 20
+    "wins": 19
    },
    {
     "display": "Muse Wonder Full",
@@ -144,10 +144,10 @@
    {
     "display": "Doubao-Seed-Evolving",
     "draws": 0,
-    "losses": 1,
+    "losses": 0,
     "name": "Doubao",
     "rating": -30.703456814699337,
-    "wins": 19
+    "wins": 20
    },
    {
     "display": "Kimi K3",
@@ -184,10 +184,10 @@
    {
     "display": "出题方参照",
     "draws": 0,
-    "losses": 0,
+    "losses": 1,
     "name": "sparring",
     "rating": 488.5601095787485,
-    "wins": 20
+    "wins": 19
    },
    {
     "display": "基准",
@@ -205,7 +205,7 @@
  "env": {
   "compiler": "g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
   "cpus": 4,
-  "platform": "Linux-6.17.0-1022-azure-x86_64-with-glibc2.39",
+  "platform": "Linux-7.0.0-1017-azure-x86_64-with-glibc2.39",
   "python": "3.12.3"
  },
  "episode": "tank",
@@ -215,7 +215,7 @@
  },
  "mode": "quick",
  "schema": 1,
- "score": 765.3,
+ "score": 803.4,
  "status": "pass",
- "time": "2026-10-21T12:11:35Z"
+ "time": "2026-10-21T15:23:32Z"
 }

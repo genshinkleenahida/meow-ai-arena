@@ -1,39 +1,39 @@
 {
- "commit": "0f0e195ecb90df075a63f49f2ef098146c153674",
+ "commit": "e2801c7a07ad0a17b5c531a59ab0740abe744857",
  "detail": {
   "ci95": null,
   "field": [
    {
     "name": "sonnet-5@claude-code",
-    "score": 373.0
-   },
-   {
-    "name": "opus-5.5@claude-code",
-    "score": 301.2
-   },
-   {
-    "name": "anchor-sparring",
-    "score": 298.6
+    "score": 379.6
    },
    {
     "name": "gpt-6-astra@codex",
-    "score": 284.9
+    "score": 309.9
+   },
+   {
+    "name": "opus-5.5@claude-code",
+    "score": 303.5
    },
    {
     "name": "gpt-6-sol@codex",
-    "score": 201.4
+    "score": 255.1
+   },
+   {
+    "name": "anchor-sparring",
+    "score": 240.7
    },
    {
     "name": "mimo-2.6-pro@zcode",
-    "score": 181.5
+    "score": 198.9
    },
    {
     "name": "kimi-k3@workbuddy",
-    "score": 67.2
+    "score": 83.6
    },
    {
     "name": "glm-5.3@workbuddy",
-    "score": 3.1
+    "score": 22.5
    },
    {
     "name": "anchor-greedy",
@@ -41,20 +41,20 @@
    },
    {
     "name": "deepseek-4.1f@workbuddy",
-    "score": -104.4
+    "score": -85.6
    },
    {
     "name": "mystery-model@zcode",
-    "score": -123.9
+    "score": -104.4
    },
    {
     "name": "anchor-random",
-    "score": -326.6
+    "score": -295.1
    }
   ],
   "field_size": 13,
   "games_note": "单挑 312 局；混战拆成 384 组两两比较",
-  "rank": 10
+  "rank": 9
  },
  "entry": "light-yuncai__big-loop",
  "env": {
@@ -70,7 +70,7 @@
  },
  "mode": "quick",
  "schema": 1,
- "score": -5.8,
+ "score": 21.7,
  "status": "pass",
- "time": "2026-10-21T12:18:19Z"
+ "time": "2026-10-21T15:23:32Z"
 }
